@@ -38,6 +38,7 @@ host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, api.253.com, reject
+host, api.gugudata.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
 host-suffix, apm-misaka.biliapi.net, reject

@@ -1,4 +1,4 @@
-# Routing_enhancements
+# Rules for proxy software
 #### Further adjustments to the rules of the proxy software to make it more personal.
  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Maintain status yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MitaZ/Better_Filter) ![GitHub issues](https://img.shields.io/github/issues/MitaZ/Better_Filter) ![repo size](https://img.shields.io/github/repo-size/MitaZ/Better_Filter) 
 

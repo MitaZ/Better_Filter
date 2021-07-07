@@ -237,6 +237,7 @@ host-suffix, telemetry.dropbox.com, reject
 host-suffix, test-app.link, reject
 host-suffix, titan.pinduoduo.com, reject
 host-suffix, titan-mt.pinduoduo.com, reject
+host-suffix, titan-ws.pinduoduo.com, reject
 host, tj1.youzanyun.com, reject
 host-suffix, tongdun.cn, reject
 host-suffix, tongdun.com.cn, reject

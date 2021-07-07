@@ -1,6 +1,6 @@
 # Routing_enhancements
 #### Further adjustments to the rules of the proxy software to make it more personal.
- [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+ [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Maintain status yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 个人自用代理规则，主要目的是为了reject一些漏网之鱼的广告和追踪器，同时将一部分明文http连接升级到TLS协议。不定期更新，尽量保证不含有重复的规则。
 

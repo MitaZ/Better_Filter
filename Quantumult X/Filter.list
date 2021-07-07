@@ -2,7 +2,7 @@
 host, push.air-matters.com, direct
 host-suffix, crossutility.com, proxy
 host-suffix, jamfcloud.com, proxy
-host, pastebin.com, proxy
+host-suffix, quantumult.app, proxy
 host-suffix, safebrowsing.apple, proxy
 # KEYWORD
 host-keyword, analy, reject

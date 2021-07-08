@@ -52,6 +52,7 @@ host-suffix, atreemo.com, reject
 host-suffix, bajiaohuixiang.com, reject
 host-suffix, beacon-api.aliyuncs.com, reject
 host-suffix, bi-log.aihuishou.com, reject
+host-suffix, biliapi.net, reject
 host-suffix, bizport.cn, reject
 host-suffix, bolt.dropbox.com, reject
 host, books-analytics-events.apple.com, reject
@@ -120,7 +121,6 @@ host-suffix, gifshow.com, reject
 host-suffix, glpals.com, reject
 host-suffix, googlevideoads.com, reject
 host-suffix, graph.qq.com, reject
-host-suffix, grpc.biliapi.net, reject
 host-suffix, grs.dbankcloud.com, reject
 host-suffix, guide-acs.m.taobao.com, reject
 host-suffix, hao.360.cn, reject

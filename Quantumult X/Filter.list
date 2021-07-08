@@ -76,8 +76,10 @@ host-suffix, cloudauth-device.aliyuncs.com, reject
 host-suffix, cmpassport.com, reject
 host-suffix, cmtw.pinduoduo.com, reject
 host-suffix, cnrugs2.com, reject
+host, collect.alipay.com, reject
 host-suffix, comscoreresearch.com, reject
 host-suffix, configsvr.msf.3g.qq.com, reject
+host-suffix, connatix.com, reject
 host-suffix, content.guide.jamfnow.com, reject
 host-suffix, continuum.dds.microsoft.com, reject
 host-suffix, cpro.baidustatic.com, reject
@@ -132,6 +134,7 @@ host-suffix, hreport.meituan.com, reject
 host, httpdns.baidubce.com, reject
 host-suffix, httpfereport.jd.com, reject
 host-suffix, id.getkwai.com, reject
+host-suffix, idqqimg.com, reject
 host-suffix, iextwork.com, reject
 host-suffix, iflytekcloud.cn, reject
 host-suffix, iflytekcloud.com, reject
@@ -175,6 +178,7 @@ host-suffix, mayybstatnew.3g.qq.com, reject
 host-suffix, mb.qq.com, reject
 host-suffix, mc.yandex.ru, reject
 host-suffix, mdh-pa.googleapis.com, reject
+host-suffix, meta.pinduoduo.com, reject
 host, metrics.icloud.com, reject
 host-suffix, mikecrm.com, reject
 host-suffix, miniapp.gtimg.cn, reject

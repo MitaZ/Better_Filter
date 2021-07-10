@@ -43,7 +43,6 @@ host, api.gugudata.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
 host-suffix, app.link, reject
-host-suffix, appcloud2.in.zhihu.com, reject
 host-suffix, appcloud2.zhihu.com, reject
 host-suffix, appsec-mobile.meituan.com, reject
 host-suffix, appspot.com, reject
@@ -142,6 +141,7 @@ host-suffix, iflytekcloud.com, reject
 host-suffix, iflytekcloud.com.cn, reject
 host-suffix, intercom.com, reject
 host-suffix, intercom.io, reject
+host-suffix, in.zhihu.com, reject
 host-suffix, ioameuf.com, reject
 host, iphonesubmissions.apple.com, reject
 host-suffix, ishumei.com, reject

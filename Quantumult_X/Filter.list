@@ -11,6 +11,7 @@ host-keyword, mcdn, reject
 host-keyword, mpaas, reject
 host-keyword, sensor, reject
 host-keyword, sentry, reject
+host-keyword, tysdk, reject
 user-agent, FBiOSSDK*, reject
 user-agent, HttpDns*, reject
 # REJECT
@@ -73,6 +74,7 @@ host-suffix, click.mz.simba.taobao.com, reject
 host-suffix, client.wns.windows.com, reject
 host-suffix, clientservices.googleapis.com, reject
 host-suffix, cloudauth-device.aliyuncs.com, reject
+host-suffix, cloudwalk.com, reject
 host-suffix, cmpassport.com, reject
 host-suffix, cmtw.pinduoduo.com, reject
 host-suffix, cnrugs2.com, reject
@@ -142,6 +144,7 @@ host-suffix, intercom.com, reject
 host-suffix, intercom.io, reject
 host-suffix, ioameuf.com, reject
 host, iphonesubmissions.apple.com, reject
+host-suffix, ishumei.com, reject
 host-suffix, ivocloud.cn, reject
 host-suffix, ivocloud.com, reject
 host-suffix, ivoicelife.cn, reject
@@ -224,6 +227,7 @@ host-suffix, security.bilibili.com, reject
 host-suffix, shavar.prod.mozaws.net, reject
 host-suffix, shidengdata.com, reject
 host-suffix, shopperapproved.com, reject
+host-suffix, shulidata.com, reject
 host-suffix, shuzijz.cn, reject
 host-suffix, shuzijz.com, reject
 host-suffix, smartad.10010.com, reject
@@ -248,6 +252,7 @@ host-suffix, tongdun.net, reject
 host-suffix, tracert.alipay.com, reject
 host-suffix, trackbeat.lanfanapp.com, reject
 host-suffix, trackbeat.xiachufang.com, reject
+host-suffix, tracker.didistatic.com, reject
 host-suffix, treesmobsdk.com, reject
 host-suffix, txappnet.com, reject
 host-suffix, udc.yahoo.com, reject

@@ -197,8 +197,7 @@ host-suffix, geilicdn.com, direct
 host-suffix, getpricetag.com, direct
 host-suffix, gifshow.com, direct
 host-suffix, godic.net, direct
-host-suffix, goodread.com, direct
-host-suffix, googletraveladservices.com, direct
+host-suffix, gov.cn, direct
 host-suffix, haibian.com, direct
 host-suffix, hamreus.com, direct
 host-suffix, hao123.com, direct
@@ -225,9 +224,7 @@ host-suffix, iesdouyin.com, direct
 host-suffix, ifeng.com, direct
 host-suffix, ifengimg.com, direct
 host-suffix, igamecj.com, direct
-host-suffix, images-amazon.com, direct
 host-suffix, img4me.com, direct
-host-suffix, infinitynewtab.com, direct
 host-suffix, ip-cdn.com, direct
 host-suffix, ip.la, direct
 host-suffix, ip.sb, direct
@@ -296,7 +293,6 @@ host-suffix, manhuagui.com, direct
 host-suffix, maoyan.com, direct
 host-suffix, maoyun.tv, direct
 host-suffix, mbcloud.com, direct
-host-suffix, me.com, direct
 host-suffix, meipai.com, direct
 host-suffix, meitu.com, direct
 host-suffix, meituan.com, direct

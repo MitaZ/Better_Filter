@@ -149,6 +149,7 @@ host-suffix, ishumei.com, reject
 host-suffix, ivocloud.cn, reject
 host-suffix, ivocloud.com, reject
 host-suffix, ivoicelife.cn, reject
+host, jad-api.ushknews.com, reject
 host-suffix, jddebug.com, reject
 host-suffix, jingyougz.com, reject
 host-suffix, jkdevelop.group, reject
@@ -169,6 +170,7 @@ host-suffix, log.avlyun.com, reject
 host-suffix, log.cmbchina.com, reject
 host-suffix, log.people.cn, reject
 host-suffix, log.shanbay.com, reject
+host, log-agent.jin10.com, reject
 host-suffix, logapi.people.cn, reject
 host-suffix, logapi.xsyxsc.com, reject
 host-suffix, loggw.alipay.com, reject

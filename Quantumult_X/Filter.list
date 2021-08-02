@@ -145,6 +145,7 @@ host-suffix, intercom.com, reject
 host-suffix, intercom.io, reject
 host-suffix, in.zhihu.com, reject
 host-suffix, ioameuf.com, reject
+host-suffix, ioswebfenxi.189.cn, reject
 host, iphonesubmissions.apple.com, reject
 host-suffix, ishumei.com, reject
 host-suffix, ivocloud.cn, reject
@@ -275,7 +276,7 @@ host-suffix, vv.video.qq.com, reject
 host-suffix, vweixinthumb.tc.qq.com, reject
 host-suffix, wdm.taobao.com, reject
 host, weather-analytics-events.apple.com, reject
-host-keyword, webfenxi.189.cn, reject
+host-suffix, webwebfenxi.189.cn, reject
 host-suffix, wejianzhan.com, reject
 host-suffix, wjz-cdn.baidu.com, reject
 host-suffix, wostore.cn, reject

@@ -110,6 +110,7 @@ host-suffix, facebook.com, reject
 host-suffix, facebook.net, reject
 host-suffix, fbcdn.net, reject
 host-suffix, ffdns.net, reject
+host, firebasedynamiclinks.googleapis.com, reject
 host-suffix, firebaseinstallations.googleapis.com, reject
 host-suffix, fkw.com, reject
 host-suffix, flog.xsyxsc.com, reject
@@ -223,6 +224,7 @@ host-suffix, restlbs.map.qq.com, reject
 host-suffix, retcode.taobao.com, reject
 host-suffix, ruanmei.com, reject
 host-suffix, rvvdr.com, reject
+host-suffix, safedk.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
 host-suffix, shavar.prod.mozaws.net, reject

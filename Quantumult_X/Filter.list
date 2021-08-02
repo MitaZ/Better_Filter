@@ -217,6 +217,7 @@ host-suffix, quncrm.com, reject
 host-suffix, quzzgames.com, reject
 host-suffix, qzs.qq.com, reject
 host, radarsubmissions.apple.com, reject
+host, reportappgo.189.cn, reject
 host-suffix, res.imtt.qq.com, reject
 host-suffix, research.qq.com, reject
 host-suffix, restapi.amap.com, reject
@@ -274,7 +275,7 @@ host-suffix, vv.video.qq.com, reject
 host-suffix, vweixinthumb.tc.qq.com, reject
 host-suffix, wdm.taobao.com, reject
 host, weather-analytics-events.apple.com, reject
-host-suffix, webwebfenxi.189.cn, reject
+host-keyword, webfenxi.189.cn, reject
 host-suffix, wejianzhan.com, reject
 host-suffix, wjz-cdn.baidu.com, reject
 host-suffix, wostore.cn, reject

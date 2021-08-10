@@ -7,6 +7,7 @@ host-suffix, safebrowsing.apple, proxy
 # KEYWORD
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
+host-keyword, httpdns, reject
 host-keyword, mcdn, reject
 host-keyword, mpaas, reject
 host-keyword, sensor, reject
@@ -39,7 +40,8 @@ host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, api.253.com, reject
-host, api.gugudata.com, reject
+host-suffix, api.gugudata.com, reject
+host-suffix, apilog.acfunchina.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
 host-suffix, app.link, reject
@@ -132,7 +134,8 @@ host-suffix, hector.baidu.com, reject
 host-suffix, hmrz.wo.cn, reject
 host-suffix, hpplay.cn, reject
 host-suffix, hreport.meituan.com, reject
-host, httpdns.baidubce.com, reject
+host-suffix, httpdns.baidubce.com, reject
+host-suffix, httpdns.alicdn.com, reject
 host-suffix, httpfereport.jd.com, reject
 host-suffix, id.getkwai.com, reject
 host-suffix, idqqimg.com, reject

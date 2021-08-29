@@ -108,9 +108,6 @@ host-suffix, emdl.ws.microsoft.com, reject
 host-suffix, enrichgw.10010.com, reject
 host-suffix, eq.10jqka.com.cn, reject
 host-suffix, event.zhihu.com, reject
-host-suffix, facebook.com, reject
-host-suffix, facebook.net, reject
-host-suffix, fbcdn.net, reject
 host-suffix, ffdns.net, reject
 host, firebasedynamiclinks.googleapis.com, reject
 host-suffix, firebaseinstallations.googleapis.com, reject

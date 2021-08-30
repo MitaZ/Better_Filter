@@ -141,6 +141,7 @@ host-suffix, ccgslb.net, direct
 host-suffix, c-ctrip.com, direct
 host-suffix, cctv.com, direct
 host-suffix, cctvpic.com, direct
+host-suffix, cdn-apple.com, direct
 host-suffix, cdntips.com, direct
 host-suffix, cebbank.com, direct
 host-suffix, ceblease.com, direct
@@ -351,6 +352,7 @@ host-suffix, hostbuf.com, direct
 host-suffix, hotmail.com, direct
 host-suffix, huawei.com, direct
 host-suffix, huaweicloud.com, direct
+host-suffix, huishij.com, direct
 host-suffix, hupu.com, direct
 host-suffix, hupucdn.com, direct
 host-suffix, huxiucdn.com, direct
@@ -494,6 +496,7 @@ host-suffix, lizhi.io, direct
 host-suffix, ljcdn.com, direct
 host-suffix, localizecdn.com, direct
 host-suffix, lofter.com, direct
+host-suffix, lslkkyj.com, direct
 host-suffix, lucifr.com, direct
 host-suffix, luojilab.com, direct
 host-suffix, luoo.net, direct
@@ -736,7 +739,6 @@ host-suffix, taobizhong.com, direct
 host-suffix, taopiaopiao.com, direct
 host-suffix, tapimg.com, direct
 host-suffix, taptap.com, direct
-host-suffix, tbcache.com, direct
 host-suffix, teambition.com, direct
 host-suffix, teambition.net, direct
 host-suffix, teambitionapis.com, direct
@@ -900,3 +902,4 @@ host-suffix, zhuanspirit.com, direct
 host-suffix, ziroom.com, direct
 host-suffix, ziroomapartment.com, direct
 host-suffix, zuodao.com, direct
+host-suffix, zzwc120.com, direct

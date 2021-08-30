@@ -53,6 +53,7 @@ host-suffix, atreemo.com, reject
 host-suffix, bajiaohuixiang.com, reject
 host-suffix, beacon-api.aliyuncs.com, reject
 host-suffix, bi-log.aihuishou.com, reject
+host-suffix, biliapi.com, reject
 host-suffix, biliapi.net, reject
 host-suffix, bizport.cn, reject
 host-suffix, bolt.dropbox.com, reject
@@ -75,10 +76,12 @@ host-suffix, click.mz.simba.taobao.com, reject
 host-suffix, client.wns.windows.com, reject
 host-suffix, clientservices.googleapis.com, reject
 host-suffix, cloudauth-device.aliyuncs.com, reject
+host-suffix, cloudauth.aliyuncs.com, reject
 host-suffix, cloudwalk.com, reject
 host-suffix, cmpassport.com, reject
 host-suffix, cmtw.pinduoduo.com, reject
 host-suffix, cnrugs2.com, reject
+host, cognito-identity.us-east-1.amazonaws.com, reject
 host, collect.alipay.com, reject
 host-suffix, comscoreresearch.com, reject
 host-suffix, configsvr.msf.3g.qq.com, reject
@@ -140,6 +143,7 @@ host-suffix, iextwork.com, reject
 host-suffix, iflytekcloud.cn, reject
 host-suffix, iflytekcloud.com, reject
 host-suffix, iflytekcloud.com.cn, reject
+host-suffix, im.tieba.baidu.com, reject
 host-suffix, intercom.com, reject
 host-suffix, intercom.io, reject
 host-suffix, in.zhihu.com, reject
@@ -210,6 +214,7 @@ host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
+host, postreport.meituan.com, reject
 host-suffix, qbslwmcf.cn, reject
 host-suffix, qiyukf.com, reject
 host-suffix, quickapp.cn, reject
@@ -241,8 +246,10 @@ host-suffix, so.com, reject
 host-suffix, sobot.com, reject
 host-suffix, sqimg.qq.com, reject
 host-suffix, srggm3.com, reject
+host-suffix, stilyoapps.com, reject
 host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
+host-suffix, tbcache.com, reject
 host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject
 host-suffix, test-app.link, reject
@@ -299,4 +306,5 @@ host-suffix, yixiu-abtest.alicdn.com, reject
 host-suffix, ynuf.aliapp.org, reject
 host-suffix, yqphh.com, reject
 host-suffix, yxlady.com, reject
+host-suffix, zuitte.com, reject
 host-suffix, zzx9.cn, reject

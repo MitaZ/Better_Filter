@@ -40,6 +40,7 @@ host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
 host, analytics.map.qq.com, reject
 host-suffix, an.yandex.ru, reject
+host, api-sensors.yingmi.cn, reject
 host-suffix, api.253.com, reject
 host-suffix, api.gugudata.com, reject
 host-suffix, apilog.acfunchina.com, reject

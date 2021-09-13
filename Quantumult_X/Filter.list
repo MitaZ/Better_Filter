@@ -34,7 +34,7 @@ host-suffix, aldwx.com, reject
 host-suffix, amcidhfa.com, reject
 host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
-host, analytics.map.qq.com, reject
+host-suffix, analytics.map.qq.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, api.253.com, reject
 host-suffix, api.gugudata.com, reject
@@ -89,14 +89,14 @@ host-suffix, cs.dds.microsoft.com, reject
 host-suffix, cstat.apple.com, reject
 host-suffix, d.bilibili.com, reject
 host-suffix, data.guide.jamfnow.com, reject
-host, datareport.webportal.top, reject
+host-suffix, datareport.webportal.top, reject
 host-suffix, dc.114dev.com, reject
 host-suffix, ddlequ.com, reject
 host-suffix, dfp.suning.com, reject
 host-suffix, dg.k.jd.com, reject
 host-suffix, dl-debug.dropbox.com, reject
 host-suffix, dns.msftncsi.com, reject
-host-suffix, dns.weixin.qq.com, reject
+host, dns.weixin.qq.com, reject
 host-suffix, dreport.meituan.net, reject
 host-suffix, dspunion.com, reject
 host-suffix, dualstack-logs.amap.com, reject
@@ -108,7 +108,7 @@ host-suffix, enrichgw.10010.com, reject
 host-suffix, eq.10jqka.com.cn, reject
 host-suffix, event.zhihu.com, reject
 host-suffix, ffdns.net, reject
-host, firebasedynamiclinks.googleapis.com, reject
+host-suffix, firebasedynamiclinks.googleapis.com, reject
 host-suffix, firebaseinstallations.googleapis.com, reject
 host-suffix, fkw.com, reject
 host-suffix, flog.xsyxsc.com, reject
@@ -210,7 +210,7 @@ host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
-host, postreport.meituan.com, reject
+host-suffix, postreport.meituan.com, reject
 host-suffix, qbslwmcf.cn, reject
 host-suffix, qiyukf.com, reject
 host-suffix, quickapp.cn, reject
@@ -218,7 +218,7 @@ host-suffix, quncrm.com, reject
 host-suffix, quzzgames.com, reject
 host-suffix, qzs.qq.com, reject
 host, radarsubmissions.apple.com, reject
-host, reportappgo.189.cn, reject
+host-suffix, reportappgo.189.cn, reject
 host-suffix, res.imtt.qq.com, reject
 host-suffix, research.qq.com, reject
 host-suffix, restapi.amap.com, reject

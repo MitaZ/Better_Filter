@@ -1,21 +1,17 @@
-# PROXY
 host, push.air-matters.com, direct
-host-suffix, crossutility.com, proxy
 host-suffix, jamfcloud.com, proxy
 host-suffix, quantumult.app, proxy
 host-suffix, safebrowsing.apple, proxy
-# KEYWORD
+user-agent, FBiOSSDK*, reject
+user-agent, HttpDns*, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
 host-keyword, httpdns, reject
 host-keyword, mcdn, reject
 host-keyword, mpaas, reject
-host-keyword, sensor, reject
+host-keyword, sensors, reject
 host-keyword, sentry, reject
 host-keyword, tysdk, reject
-user-agent, FBiOSSDK*, reject
-user-agent, HttpDns*, reject
-# REJECT
 host-suffix, 127.net, reject
 host-suffix, 139130.com, reject
 host-suffix, 21cn.com, reject
@@ -38,6 +34,7 @@ host-suffix, aldwx.com, reject
 host-suffix, amcidhfa.com, reject
 host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
+host-suffix, analytics.map.qq.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, api.253.com, reject
 host-suffix, api.gugudata.com, reject
@@ -67,7 +64,6 @@ host-suffix, bzy.ai, reject
 host-suffix, c.58cdn.com.cn, reject
 host-suffix, casestudy.html5.qq.com, reject
 host-suffix, catdot.dianping.com, reject
-host-suffix, cdn-go.cn, reject
 host-suffix, cehggg.com, reject
 host-suffix, cgi.connect.qq.com, reject
 host-suffix, chat.bilibili.com, reject
@@ -93,14 +89,14 @@ host-suffix, cs.dds.microsoft.com, reject
 host-suffix, cstat.apple.com, reject
 host-suffix, d.bilibili.com, reject
 host-suffix, data.guide.jamfnow.com, reject
-host, datareport.webportal.top, reject
+host-suffix, datareport.webportal.top, reject
 host-suffix, dc.114dev.com, reject
 host-suffix, ddlequ.com, reject
 host-suffix, dfp.suning.com, reject
 host-suffix, dg.k.jd.com, reject
 host-suffix, dl-debug.dropbox.com, reject
 host-suffix, dns.msftncsi.com, reject
-host-suffix, dns.weixin.qq.com, reject
+host, dns.weixin.qq.com, reject
 host-suffix, dreport.meituan.net, reject
 host-suffix, dspunion.com, reject
 host-suffix, dualstack-logs.amap.com, reject
@@ -112,7 +108,7 @@ host-suffix, enrichgw.10010.com, reject
 host-suffix, eq.10jqka.com.cn, reject
 host-suffix, event.zhihu.com, reject
 host-suffix, ffdns.net, reject
-host, firebasedynamiclinks.googleapis.com, reject
+host-suffix, firebasedynamiclinks.googleapis.com, reject
 host-suffix, firebaseinstallations.googleapis.com, reject
 host-suffix, fkw.com, reject
 host-suffix, flog.xsyxsc.com, reject
@@ -214,7 +210,7 @@ host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
-host, postreport.meituan.com, reject
+host-suffix, postreport.meituan.com, reject
 host-suffix, qbslwmcf.cn, reject
 host-suffix, qiyukf.com, reject
 host-suffix, quickapp.cn, reject
@@ -222,7 +218,7 @@ host-suffix, quncrm.com, reject
 host-suffix, quzzgames.com, reject
 host-suffix, qzs.qq.com, reject
 host, radarsubmissions.apple.com, reject
-host, reportappgo.189.cn, reject
+host-suffix, reportappgo.189.cn, reject
 host-suffix, res.imtt.qq.com, reject
 host-suffix, research.qq.com, reject
 host-suffix, restapi.amap.com, reject

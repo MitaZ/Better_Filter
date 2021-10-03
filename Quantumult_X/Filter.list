@@ -41,6 +41,7 @@ host-suffix, api.gugudata.com, reject
 host-suffix, apilog.acfunchina.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
+host-suffix, appcenter.ms, reject
 host-suffix, app.link, reject
 host-suffix, appcloud2.zhihu.com, reject
 host-suffix, appsec-mobile.meituan.com, reject
@@ -211,6 +212,7 @@ host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
 host-suffix, postreport.meituan.com, reject
+host-suffix, pv.sohu.com, reject
 host-suffix, qbslwmcf.cn, reject
 host-suffix, qiyukf.com, reject
 host-suffix, quickapp.cn, reject

@@ -247,6 +247,7 @@ host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
 host-suffix, tbcache.com, reject
 host-suffix, teddymobile.cn, reject
+host-suffix, telemetrydeck.com, reject
 host-suffix, telemetry.dropbox.com, reject
 host-suffix, test-app.link, reject
 host-suffix, titan.pinduoduo.com, reject

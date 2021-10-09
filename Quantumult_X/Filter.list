@@ -86,6 +86,7 @@ host-suffix, connatix.com, reject
 host-suffix, content.guide.jamfnow.com, reject
 host-suffix, continuum.dds.microsoft.com, reject
 host-suffix, cpro.baidustatic.com, reject
+host, crashlyticsreports-pa.googleapis.com, reject
 host-suffix, cs.dds.microsoft.com, reject
 host-suffix, cstat.apple.com, reject
 host-suffix, d.bilibili.com, reject

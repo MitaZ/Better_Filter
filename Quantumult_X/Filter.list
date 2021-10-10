@@ -73,7 +73,6 @@ host-suffix, catdot.dianping.com, reject
 host-suffix, cehggg.com, reject
 host-suffix, cgi.connect.qq.com, reject
 host-suffix, chat.bilibili.com, reject
-host, chassis-cdn.appcloudcdn.com, reject
 host-suffix, checkappexec.microsoft.com, reject
 host-suffix, click.mz.simba.taobao.com, reject
 host-suffix, client.wns.windows.com, reject
@@ -91,6 +90,7 @@ host-suffix, configsvr.msf.3g.qq.com, reject
 host-suffix, connatix.com, reject
 host-suffix, content.guide.jamfnow.com, reject
 host-suffix, continuum.dds.microsoft.com, reject
+host, counters-cdn.2q10.com, reject
 host-suffix, cpro.baidustatic.com, reject
 host, crashlyticsreports-pa.googleapis.com, reject
 host-suffix, cs.dds.microsoft.com, reject

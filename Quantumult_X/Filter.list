@@ -124,7 +124,7 @@ host-suffix, fraudmetrix.cn, reject
 host-suffix, fritjtgn.com, reject
 host-suffix, fundebug.net, reject
 host-suffix, fxgate.baidu.com, reject
-host-suffix, gate.hockeyapp.net, reject
+host, gate.hockeyapp.net, reject
 host-suffix, gifshow.com, reject
 host-suffix, glpals.com, reject
 host-suffix, googlevideoads.com, reject

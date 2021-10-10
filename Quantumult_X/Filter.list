@@ -41,6 +41,8 @@ host-suffix, api.gugudata.com, reject
 host-suffix, apilog.acfunchina.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
+host, app-cdn.2q10.com, reject
+host, app-push.2q10.com, reject
 host-suffix, appcenter.ms, reject
 host-suffix, app.link, reject
 host-suffix, appcloud2.zhihu.com, reject

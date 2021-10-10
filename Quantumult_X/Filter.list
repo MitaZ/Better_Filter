@@ -73,6 +73,7 @@ host-suffix, catdot.dianping.com, reject
 host-suffix, cehggg.com, reject
 host-suffix, cgi.connect.qq.com, reject
 host-suffix, chat.bilibili.com, reject
+host, chassis-cdn.appcloudcdn.com, reject
 host-suffix, checkappexec.microsoft.com, reject
 host-suffix, click.mz.simba.taobao.com, reject
 host-suffix, client.wns.windows.com, reject

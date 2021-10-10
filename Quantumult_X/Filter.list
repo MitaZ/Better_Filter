@@ -41,6 +41,8 @@ host-suffix, api.gugudata.com, reject
 host-suffix, apilog.acfunchina.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
+host, app-cdn.2q10.com, reject
+host, app-push.2q10.com, reject
 host-suffix, appcenter.ms, reject
 host-suffix, app.link, reject
 host-suffix, appcloud2.zhihu.com, reject
@@ -56,6 +58,9 @@ host-suffix, biliapi.net, reject
 host-suffix, bizport.cn, reject
 host-suffix, bolt.dropbox.com, reject
 host, books-analytics-events.apple.com, reject
+host, books-analytics-events.news.apple-dns.net, reject
+host, stocks-analytics-events.apple.com, reject
+host, stocks-analytics-events.news.apple-dns.net, reject
 host-suffix, boxer.baidu.com, reject
 host-suffix, bs.yandex.ru, reject
 host-suffix, bugtags.cn, reject
@@ -119,6 +124,7 @@ host-suffix, fraudmetrix.cn, reject
 host-suffix, fritjtgn.com, reject
 host-suffix, fundebug.net, reject
 host-suffix, fxgate.baidu.com, reject
+host-suffix, gate.hockeyapp.net, reject
 host-suffix, gifshow.com, reject
 host-suffix, glpals.com, reject
 host-suffix, googlevideoads.com, reject

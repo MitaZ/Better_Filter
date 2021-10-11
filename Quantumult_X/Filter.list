@@ -196,6 +196,7 @@ host-suffix, mc.yandex.ru, reject
 host-suffix, mdh-pa.googleapis.com, reject
 host-suffix, meta.pinduoduo.com, reject
 host, metrics.icloud.com, reject
+host-suffix, midway.run, reject
 host-suffix, mikecrm.com, reject
 host-suffix, miniapp.gtimg.cn, reject
 host-suffix, miwifi.com, reject

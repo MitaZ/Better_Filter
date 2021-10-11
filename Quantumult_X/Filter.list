@@ -72,6 +72,8 @@ host-suffix, casestudy.html5.qq.com, reject
 host-suffix, catdot.dianping.com, reject
 host-suffix, cehggg.com, reject
 host-suffix, cgi.connect.qq.com, reject
+host, chassis-cdn.2q10.com, reject
+host, chassis-cdn.appcloudcdn.com, reject
 host-suffix, chat.bilibili.com, reject
 host-suffix, checkappexec.microsoft.com, reject
 host-suffix, click.mz.simba.taobao.com, reject

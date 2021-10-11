@@ -144,6 +144,7 @@ host-suffix, hreport.meituan.com, reject
 host-suffix, httpdns.baidubce.com, reject
 host-suffix, httpdns.alicdn.com, reject
 host-suffix, httpfereport.jd.com, reject
+host, icity.2q10.com, reject
 host-suffix, id.getkwai.com, reject
 host-suffix, idqqimg.com, reject
 host-suffix, iextwork.com, reject

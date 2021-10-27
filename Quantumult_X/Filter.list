@@ -8,6 +8,7 @@ host-keyword, abtest, reject
 host-keyword, adash, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
+host-keyword, cognito-,reject
 host-keyword, httpdns, reject
 host-keyword, mcdn., reject
 host-keyword, mpaas, reject
@@ -91,8 +92,7 @@ host-suffix, cloudwalk.com, reject
 host-suffix, cmpassport.com, reject
 host-suffix, cmtw.pinduoduo.com, reject
 host-suffix, cnrugs2.com, reject
-host, cognito-identity.us-east-1.amazonaws.com, reject
-host, collect.alipay.com, reject
+host-suffix, collect.alipay.com, reject
 host-suffix, comscoreresearch.com, reject
 host-suffix, configsvr.msf.3g.qq.com, reject
 host-suffix, connatix.com, reject

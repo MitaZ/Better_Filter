@@ -295,6 +295,8 @@ host, tj1.youzanyun.com, reject
 host-suffix, tongdun.cn, reject
 host-suffix, tongdun.com.cn, reject
 host-suffix, tongdun.net, reject
+host-suffix, tpns.hk.tencent.com, reject
+host-suffix, tpns.sgp.tencent.com, reject
 host-suffix, tpns.sh.tencent.com, reject
 host-suffix, tpns.tencent.com, reject
 host-suffix, tracert.alipay.com, reject

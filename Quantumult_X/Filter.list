@@ -9,11 +9,12 @@ host-keyword, adash, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
 host-keyword, httpdns, reject
-host-keyword, mcdn, reject
+host-keyword, mcdn., reject
 host-keyword, mpaas, reject
 host-keyword, sensors, reject
 host-keyword, sentry, reject
-host-keyword, tysdk, reject
+host-keyword, tpns., reject
+host-keyword, tysdk., reject
 host-suffix, 127.net, reject
 host-suffix, 139130.com, reject
 host-suffix, 163industry.com, reject
@@ -295,6 +296,7 @@ host-suffix, tongdun.cn, reject
 host-suffix, tongdun.com.cn, reject
 host-suffix, tongdun.net, reject
 host-suffix, tpns.sh.tencent.com, reject
+host-suffix, tpns.tencent.com, reject
 host-suffix, tracert.alipay.com, reject
 host-suffix, trackbeat.lanfanapp.com, reject
 host-suffix, trackbeat.xiachufang.com, reject

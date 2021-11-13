@@ -254,6 +254,7 @@ host-suffix, quzzgames.com, reject
 host-suffix, qzs.qq.com, reject
 host, radarsubmissions.apple.com, reject
 host-suffix, reportappgo.189.cn, reject
+host-suffix, report.meeting.tencent.com, reject
 host-suffix, res.imtt.qq.com, reject
 host-suffix, research.qq.com, reject
 host-suffix, restapi.amap.com, reject

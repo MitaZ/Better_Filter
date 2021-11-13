@@ -27,6 +27,7 @@ host-suffix, 7pd.cn, reject
 host-suffix, 8iil.live, reject
 host-suffix, accuratead.cn, reject
 host-suffix, acs.m.taobao.com, reject
+host-suffix, ad.10010.com, reject
 host-suffix, adash.ut.taobao.com, reject
 host-suffix, adj.st, reject
 host-suffix, adjust.net.in, reject
@@ -144,6 +145,7 @@ host-suffix, guide-acs.m.taobao.com, reject
 host-suffix, hao.360.cn, reject
 host-suffix, hapjs.org, reject
 host-suffix, hcdn.iqiyi.com, reject
+host-suffix, hduofen.com, reject
 host-suffix, hector.baidu.com, reject
 host-suffix, hmrz.wo.cn, reject
 host-suffix, hpplay.cn, reject
@@ -198,6 +200,7 @@ host-suffix, loggw.alipay.com, reject
 host-suffix, loggw-ex.alipay.com, reject
 host-suffix, logs-api.smzdm.com, reject
 host-suffix, lwlog.laiwang.com, reject
+host-suffix, m106.cn, reject
 host-suffix, mall.bilibili.com, reject
 host-suffix, match.qq.com, reject
 host-suffix, mayybstatnew.3g.qq.com, reject
@@ -248,6 +251,7 @@ host-suffix, qimai.net, reject
 host-suffix, qimaidata.com, reject
 host-suffix, qiyukf.com, reject
 host-suffix, qiyukf.net, reject
+host-suffix, qmconfig.com, reject
 host-suffix, quickapp.cn, reject
 host-suffix, quncrm.com, reject
 host-suffix, quzzgames.com, reject

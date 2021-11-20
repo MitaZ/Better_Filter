@@ -21,6 +21,7 @@ host-suffix, 139130.com, reject
 host-suffix, 163industry.com, reject
 host-suffix, 163yun.com, reject
 host-suffix, 21cn.com, reject
+host-suffix, 360os.com, reject
 host-suffix, 4pn.cn, reject
 host-suffix, 627632.com, reject
 host-suffix, 7pd.cn, reject

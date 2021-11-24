@@ -63,6 +63,7 @@ host-suffix, arms-retcode.aliyuncs.com, reject
 host-suffix, aso100.com, reject
 host-suffix, atreemo.com, reject
 host-suffix, bajiaohuixiang.com, reject
+host-suffix, baidubce.com, reject
 host-suffix, beacon-api.aliyuncs.com, reject
 host-suffix, biliapi.com, reject
 host-suffix, biliapi.net, reject
@@ -111,6 +112,8 @@ host-suffix, d.bilibili.com, reject
 host-suffix, data.guide.jamfnow.com, reject
 host-suffix, datareport.webportal.top, reject
 host-suffix, dc.114dev.com, reject
+host-suffix, dcloud.net.cn, reject
+host-suffix, dcloud.io, reject
 host-suffix, ddlequ.com, reject
 host-suffix, dfp.suning.com, reject
 host-suffix, dg.k.jd.com, reject

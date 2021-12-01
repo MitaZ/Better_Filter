@@ -146,7 +146,9 @@ host, gate.hockeyapp.net, reject
 host-suffix, gifshow.com, reject
 host-suffix, giocdn.com, reject
 host-suffix, glpals.com, reject
+host-suffix, google-analytics.com, reject
 host-suffix, googlevideoads.com, reject
+host-suffix, graph.facebook.com, reject
 host-suffix, graph.qq.com, reject
 host-suffix, growingio.com, reject
 host-suffix, grs.dbankcloud.com, reject

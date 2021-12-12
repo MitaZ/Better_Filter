@@ -17,12 +17,14 @@ host-keyword, sentry, reject
 host-keyword, statistic, reject
 host-keyword, tpns., reject
 host-keyword, tysdk., reject
+host-suffix, 114dev.com, reject
 host-suffix, 126.net, reject
 host-suffix, 127.net, reject
 host-suffix, 139130.com, reject
 host-suffix, 163industry.com, reject
 host-suffix, 163yun.com, reject
 host-suffix, 21cn.com, reject
+host-suffix, 253.com, reject
 host-suffix, 360os.com, reject
 host-suffix, 4pn.cn, reject
 host-suffix, 627632.com, reject
@@ -46,7 +48,6 @@ host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, analytics.map.qq.com, reject
-host-suffix, api.253.com, reject
 host-suffix, api.gugudata.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
@@ -111,7 +112,6 @@ host-suffix, cstat.apple.com, reject
 host-suffix, d.bilibili.com, reject
 host-suffix, data.guide.jamfnow.com, reject
 host-suffix, datareport.webportal.top, reject
-host-suffix, dc.114dev.com, reject
 host-suffix, dcloud.net.cn, reject
 host-suffix, dcloud.io, reject
 host-suffix, ddlequ.com, reject
@@ -169,6 +169,7 @@ host-suffix, hushaclub.com, reject
 host, icity.icitycdn.com, reject
 host, icity.2q10.com, reject
 host-suffix, id.getkwai.com, reject
+host-suffix, id.mail.wo.cn, reject
 host-suffix, idqqimg.com, reject
 host-suffix, iextwork.com, reject
 host-suffix, iflytekcloud.cn, reject
@@ -238,6 +239,7 @@ host-suffix, netease.im, reject
 host-suffix, netease.im, reject
 host-suffix, nfa.jd.com, reject
 host-suffix, nishub1.10010.com, reject
+host-suffix, nisportal.10010.com, reject
 host-suffix, nufacbae.com, reject
 host-suffix, oia.zhihu.com, reject
 host-suffix, onelogin.geetest.com, reject
@@ -342,6 +344,7 @@ host, weather-analytics-events.apple.com, reject
 host-suffix, webwebfenxi.189.cn, reject
 host-suffix, wejianzhan.com, reject
 host-suffix, wjz-cdn.baidu.com, reject
+host-suffix, wosms.cn, reject
 host-suffix, wostore.cn, reject
 host-suffix, wreport1.meituan.net, reject
 host-suffix, wreport2.meituan.net, reject

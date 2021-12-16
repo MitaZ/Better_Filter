@@ -307,6 +307,8 @@ host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject
 host-suffix, telemetrydeck.com, reject
 host-suffix, test-app.link, reject
+host-suffix, th.pinduoduo.com, reject
+host-suffix, th-a.pinduoduo.com, reject
 host-suffix, titan.pinduoduo.com, reject
 host-suffix, titan-mt.pinduoduo.com, reject
 host-suffix, titan-ws.pinduoduo.com, reject

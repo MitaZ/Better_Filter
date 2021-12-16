@@ -746,8 +746,6 @@ host-suffix, tencent-cloud.net, direct
 host-suffix, tencentmusic.com, direct
 host-suffix, tencentyun.com, direct
 host-suffix, tenpay.com, direct
-host-suffix, th.pinduoduo.com, reject
-host-suffix, th-a.pinduoduo.com, reject
 host-suffix, thunderurl.com, direct
 host-suffix, tiancity.com, direct
 host-suffix, tiancitycdn.com, direct

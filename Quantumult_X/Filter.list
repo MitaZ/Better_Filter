@@ -125,6 +125,7 @@ host-suffix, dspunion.com, reject
 host-suffix, dualstack-logs.amap.com, reject
 host-suffix, e.189.cn, reject
 host-suffix, eco.taobao.com, reject
+host-suffix, eimg.smzdm.com, reject
 host-suffix, emb-api.com, reject
 host-suffix, emdl.ws.microsoft.com, reject
 host-suffix, enrichgw.10010.com, reject

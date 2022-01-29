@@ -261,6 +261,7 @@ host-suffix, pphuyu.com, reject
 host-suffix, ppshiwan.com, reject
 host-suffix, ppsuoping.com, reject
 host-suffix, pv.sohu.com, reject
+host-suffix, px-itrace.xuexi.cn, reject
 host-suffix, qbslwmcf.cn, reject
 host-suffix, qimai.net, reject
 host-suffix, qimaidata.com, reject

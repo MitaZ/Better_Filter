@@ -379,17 +379,6 @@ host-suffix, yyaso.com, reject
 host-suffix, zuitte.com, reject
 host-suffix, zzx9.cn, reject
 ip-cidr, 103.40.12.246/32, reject
-ip-cidr, 111.44.246.131/32, reject
-ip-cidr, 111.56.127.216/32, reject
-ip-cidr, 112.15.232.43/32, reject
 ip-cidr, 115.236.76.246/32, reject
-ip-cidr, 124.236.16.201/32, reject
 ip-cidr, 180.96.21.0/24, reject
-ip-cidr, 182.43.124.6/32, reject
-ip-cidr, 182.43.124.6/32, reject
 ip-cidr, 183.213.92.2/32, reject
-ip-cidr, 183.213.92.2/32, reject
-ip-cidr, 211.137.133.69/32, reject
-ip-cidr, 221.130.39.3/32, reject
-ip-cidr, 221.228.32.13/32, reject
-ip-cidr, 39.102.194.95/32, reject

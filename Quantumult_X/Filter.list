@@ -247,6 +247,7 @@ host-suffix, nufacbae.com, reject
 host-suffix, oia.zhihu.com, reject
 host-suffix, onelogin.geetest.com, reject
 host-suffix, onepass.geetest.com, reject
+host-suffix, onezapp.com, reject
 host-suffix, open.wo.cn, reject
 host-suffix, open.youzanyun.com, reject
 host-suffix, openspeech.cn, reject

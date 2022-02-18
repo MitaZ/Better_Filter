@@ -9,6 +9,7 @@ host-keyword, adash, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
 host-keyword, cognito-,reject
+host-keyword, dns.weixin.qq.com, reject
 host-keyword, httpdns, reject
 host-keyword, mcdn., reject
 host-keyword, mpaas, reject
@@ -30,6 +31,7 @@ host-suffix, 4pn.cn, reject
 host-suffix, 627632.com, reject
 host-suffix, 7pd.cn, reject
 host-suffix, 8iil.live, reject
+host-suffix, ab.qq.com, reject
 host-suffix, accuratead.cn, reject
 host-suffix, acs.m.taobao.com, reject
 host-suffix, ad.10010.com, reject
@@ -119,7 +121,6 @@ host-suffix, dfp.suning.com, reject
 host-suffix, dg.k.jd.com, reject
 host-suffix, dl-debug.dropbox.com, reject
 host-suffix, dns.msftncsi.com, reject
-host, dns.weixin.qq.com, reject
 host-suffix, dreport.meituan.net, reject
 host-suffix, dspunion.com, reject
 host-suffix, dualstack-logs.amap.com, reject
@@ -327,6 +328,7 @@ host-suffix, tpns.hk.tencent.com, reject
 host-suffix, tpns.sgp.tencent.com, reject
 host-suffix, tpns.sh.tencent.com, reject
 host-suffix, tpns.tencent.com, reject
+host-suffix, tpstelemetry.tencent.com, reject
 host-suffix, tracert.alipay.com, reject
 host-suffix, trackbeat.lanfanapp.com, reject
 host-suffix, trackbeat.xiachufang.com, reject

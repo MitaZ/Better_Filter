@@ -244,6 +244,7 @@ host-suffix, nfa.jd.com, reject
 host-suffix, nishub1.10010.com, reject
 host-suffix, nisportal.10010.com, reject
 host-suffix, nufacbae.com, reject
+host-suffix, officesoftcn.com, reject
 host-suffix, oia.zhihu.com, reject
 host-suffix, onelogin.geetest.com, reject
 host-suffix, onepass.geetest.com, reject

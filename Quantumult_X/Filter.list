@@ -293,7 +293,7 @@ host-suffix, safedk.com, reject
 host-suffix, safemobile.govfz.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
-host-siffix, sharetrace.com, reject
+host-suffix, sharetrace.com, reject
 host-suffix, shavar.prod.mozaws.net, reject
 host-suffix, shfzzx.cn, reject
 host-suffix, shidengdata.com, reject

@@ -201,6 +201,7 @@ host-suffix, ksapisrv.com, reject
 host-suffix, kuaishou.com, reject
 host-suffix, lietou-static.com, reject
 host-suffix, like.baidu.com, reject
+host-suffix, linkedme.cc, reject
 host-suffix, lingduyunfenfa.cn, reject
 host-suffix, loan.95516.com, reject
 host-suffix, locationsmart.com, reject
@@ -292,6 +293,7 @@ host-suffix, safedk.com, reject
 host-suffix, safemobile.govfz.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
+host-siffix, sharetrace.com, reject
 host-suffix, shavar.prod.mozaws.net, reject
 host-suffix, shfzzx.cn, reject
 host-suffix, shidengdata.com, reject
@@ -335,6 +337,7 @@ host-suffix, tracert.alipay.com, reject
 host-suffix, trackbeat.lanfanapp.com, reject
 host-suffix, trackbeat.xiachufang.com, reject
 host-suffix, tracker.didistatic.com, reject
+host-suffix, tracksdk.com, reject
 host-suffix, treesmobsdk.com, reject
 host-suffix, txappnet.com, reject
 host-suffix, uc.cn, reject
@@ -369,6 +372,7 @@ host-suffix, xf-yun.cn, reject
 host-suffix, xf-yun.com, reject
 host-suffix, xiaodun.com, reject
 host-suffix, xiaoshentui.com, reject
+host-suffix, xinstall.com, reject
 host-suffix, xmadx.com, reject
 host-suffix, xycdn.com, reject
 host-suffix, y189.cn, reject

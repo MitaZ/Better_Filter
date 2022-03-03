@@ -150,6 +150,7 @@ host-suffix, giocdn.com, reject
 host-suffix, glpals.com, reject
 host-suffix, google-analytics.com, reject
 host-suffix, googlevideoads.com, reject
+host-suffix, govfz.com, reject
 host-suffix, graph.facebook.com, reject
 host-suffix, graph.qq.com, reject
 host-suffix, growingio.com, reject
@@ -283,14 +284,13 @@ host-suffix, report.qqweb.qq.com, reject
 host-suffix, reportappgo.189.cn, reject
 host-suffix, res.imtt.qq.com, reject
 host-suffix, research.qq.com, reject
+host-suffix, resolver.mi.xiaomi.com, reject
 host-suffix, restapi.amap.com, reject
 host-suffix, restlbs.map.qq.com, reject
 host-suffix, retcode.taobao.com, reject
 host-suffix, ruanmei.com, reject
 host-suffix, rvvdr.com, reject
-host-suffix, safe.govfz.com, reject
 host-suffix, safedk.com, reject
-host-suffix, safemobile.govfz.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
 host-suffix, sharetrace.com, reject

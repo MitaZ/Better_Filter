@@ -204,6 +204,7 @@ host-suffix, lietou-static.com, reject
 host-suffix, like.baidu.com, reject
 host-suffix, linkedme.cc, reject
 host-suffix, lingduyunfenfa.cn, reject
+host-suffix, live-trace.bilibili.com, reject
 host-suffix, loan.95516.com, reject
 host-suffix, locationsmart.com, reject
 host-suffix, log.aliyuncs.com, reject
@@ -301,6 +302,7 @@ host-suffix, shopperapproved.com, reject
 host-suffix, shulidata.com, reject
 host-suffix, shuzijz.cn, reject
 host-suffix, shuzijz.com, reject
+host-suffix, skynet.bilivideo.com, reject
 host-suffix, smartad.10010.com, reject
 host-suffix, snssdk.com, reject
 host, so.cn, reject
@@ -325,6 +327,7 @@ host-suffix, titan.pinduoduo.com, reject
 host-suffix, titan-mt.pinduoduo.com, reject
 host-suffix, titan-ws.pinduoduo.com, reject
 host, tj1.youzanyun.com, reject
+host-suffix, tmfmazu.m.qq.com, reject
 host-suffix, tongdun.cn, reject
 host-suffix, tongdun.com.cn, reject
 host-suffix, tongdun.net, reject

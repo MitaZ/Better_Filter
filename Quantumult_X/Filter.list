@@ -255,6 +255,7 @@ host-suffix, onezapp.com, reject
 host-suffix, open.wo.cn, reject
 host-suffix, open.youzanyun.com, reject
 host-suffix, openspeech.cn, reject
+host-suffix, openwrite.cn, reject
 host-suffix, performance.dropbox.com, reject
 host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject

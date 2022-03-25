@@ -293,6 +293,7 @@ host-suffix, retcode.taobao.com, reject
 host-suffix, ruanmei.com, reject
 host-suffix, rvvdr.com, reject
 host-suffix, safedk.com, reject
+host-suffix, sascdn.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
 host-suffix, sharetrace.com, reject

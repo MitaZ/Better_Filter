@@ -58,8 +58,10 @@ host-suffix, app.link, reject
 host, app-cdn.2q10.com, reject
 host-suffix, appcenter.ms, reject
 host-suffix, appcloud2.zhihu.com, reject
+host-suffix, app-data-return.gamersky.com, reject
 host-suffix, appjun.com, reject
 host, app-push.2q10.com, reject
+host-suffix, apppush.gamersky.com, reject
 host-suffix, appsec-mobile.meituan.com, reject
 host-suffix, appspot.com, reject
 host-suffix, arms-retcode.aliyuncs.com, reject
@@ -202,8 +204,8 @@ host-suffix, ksapisrv.com, reject
 host-suffix, kuaishou.com, reject
 host-suffix, lietou-static.com, reject
 host-suffix, like.baidu.com, reject
-host-suffix, linkedme.cc, reject
 host-suffix, lingduyunfenfa.cn, reject
+host-suffix, linkedme.cc, reject
 host-suffix, live-trace.bilibili.com, reject
 host-suffix, loan.95516.com, reject
 host-suffix, locationsmart.com, reject

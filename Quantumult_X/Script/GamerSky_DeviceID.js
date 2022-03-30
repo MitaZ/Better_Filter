@@ -4,9 +4,7 @@ function uuidv4() {
 
 var modifiedHeaders = $request.headers;
 modifiedHeaders['deviceId'] = uuidv4();
-modifiedHeaders['appVersion'] = '5.15.12';
 modifiedHeaders['deviceType'] = 'iPhone14,5';
-modifiedHeaders['osVersion'] = '15.4';
 
 var modifiedScheme = 'https';
 

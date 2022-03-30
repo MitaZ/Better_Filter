@@ -12,6 +12,7 @@ modifiedBody = JSON.stringify(obj);
 
 var modifiedScheme = 'https';
 
-console.log($request.scheme);
+console.log(modifiedScheme);
+console.log(modifiedBody);
 
 $done({body: modifiedBody, scheme: modifiedScheme});

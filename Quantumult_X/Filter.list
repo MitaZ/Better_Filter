@@ -229,6 +229,7 @@ host-suffix, mc.yandex.ru, reject
 host-suffix, mdh-pa.googleapis.com, reject
 host-suffix, meta.pinduoduo.com, reject
 host, metrics.icloud.com, reject
+host, m.fhyx.com, reject
 host-suffix, midway.run, reject
 host-suffix, mikecrm.com, reject
 host-suffix, miniapp.gtimg.cn, reject
@@ -292,6 +293,7 @@ host-suffix, resolver.mi.xiaomi.com, reject
 host-suffix, restapi.amap.com, reject
 host-suffix, restlbs.map.qq.com, reject
 host-suffix, retcode.taobao.com, reject
+host-suffix, router.gamersky.com, reject
 host-suffix, ruanmei.com, reject
 host-suffix, rvvdr.com, reject
 host-suffix, safedk.com, reject

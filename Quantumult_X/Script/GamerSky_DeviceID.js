@@ -10,4 +10,4 @@ modifiedHeaders['osVersion'] = '15.4';
 
 var modifiedScheme = 'https';
 
-$done({scheme：modifiedScheme, headers: modifiedHeaders});
+$done({scheme: modifiedScheme, headers: modifiedHeaders});

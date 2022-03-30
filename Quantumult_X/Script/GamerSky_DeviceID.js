@@ -11,6 +11,4 @@ obj['deviceType'] = 'iPhone14,5';
 
 modifiedBody = JSON.stringify(obj);
 
-var modifiedScheme = 'https';
-
-$done({body: modifiedBody, scheme: modifiedScheme});
+$done({body: modifiedBody});

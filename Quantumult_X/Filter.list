@@ -227,6 +227,7 @@ host-suffix, mayybstatnew.3g.qq.com, reject
 host-suffix, mb.qq.com, reject
 host-suffix, mc.yandex.ru, reject
 host-suffix, mdh-pa.googleapis.com, reject
+host-suffix, media-lab.ai, reject
 host-suffix, meta.pinduoduo.com, reject
 host, metrics.icloud.com, reject
 host, m.fhyx.com, reject

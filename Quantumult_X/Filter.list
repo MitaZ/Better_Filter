@@ -11,6 +11,7 @@ host-keyword, app.adjust, reject
 host-keyword, cognito-,reject
 host-keyword, dns.weixin.qq.com, reject
 host-keyword, httpdns, reject
+host-keyword, loggw, reject
 host-keyword, mcdn., reject
 host-keyword, mpaas, reject
 host-keyword, sensors, reject

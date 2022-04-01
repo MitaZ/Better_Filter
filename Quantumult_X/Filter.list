@@ -389,6 +389,7 @@ host-suffix, xycdn.com, reject
 host-suffix, y189.cn, reject
 host-suffix, y2g.cn, reject
 host-suffix, y4n.cn, reject
+host-suffix, yeyou-cps.gamersky.com, reject
 host-suffix, yihao.com, reject
 host-suffix, yixiu-abtest.alicdn.com, reject
 host-suffix, ynuf.aliapp.org, reject

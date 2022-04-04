@@ -14,6 +14,7 @@ host-keyword, httpdns, reject
 host-keyword, loggw, reject
 host-keyword, mcdn., reject
 host-keyword, mpaas, reject
+host-keyword, pmmtk, reject
 host-keyword, sensors, reject
 host-keyword, sentry, reject
 host-keyword, statistic, reject
@@ -266,7 +267,6 @@ host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
-host, pmmtk.pinduoduo.com, reject
 host-suffix, postreport.meituan.com, reject
 host-suffix, pphongbao.com, reject
 host-suffix, pphulian.com, reject

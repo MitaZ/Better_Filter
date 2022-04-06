@@ -88,6 +88,7 @@ host-suffix, bzy.ai, reject
 host-suffix, c.58cdn.com.cn, reject
 host-suffix, casestudy.html5.qq.com, reject
 host-suffix, catdot.dianping.com, reject
+host-suffix, cdntips.net, reject
 host-suffix, cehggg.com, reject
 host-suffix, cgi.connect.qq.com, reject
 host, chassis-cdn.2q10.com, reject

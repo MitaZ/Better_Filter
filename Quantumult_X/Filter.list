@@ -8,6 +8,7 @@ host-keyword, abtest, reject
 host-keyword, adash, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
+host-keyword, badjs, reject
 host-keyword, cognito-,reject
 host-keyword, dns.weixin.qq.com, reject
 host-keyword, httpdns, reject
@@ -325,6 +326,7 @@ host, stocks-analytics-events.apple.com, reject
 host, stocks-analytics-events.news.apple-dns.net, reject
 host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
+host-suffix, tamaegis.com, reject
 host-suffix, tbcache.com, reject
 host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject

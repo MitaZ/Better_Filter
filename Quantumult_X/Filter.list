@@ -119,6 +119,7 @@ host-suffix, cs.dds.microsoft.com, reject
 host-suffix, cstat.apple.com, reject
 host-suffix, d.bilibili.com, reject
 host-suffix, data.guide.jamfnow.com, reject
+host-suffix, data.lakehorn.com, reject
 host-suffix, datareport.webportal.top, reject
 host-suffix, dcloud.io, reject
 host-suffix, dcloud.net.cn, reject

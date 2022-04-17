@@ -381,7 +381,6 @@ host-suffix, wosms.cn, reject
 host-suffix, wostore.cn, reject
 host-suffix, wreport1.meituan.net, reject
 host-suffix, wreport2.meituan.net, reject
-host-suffix, wspeed.qq.com, reject
 host-suffix, wsurl.cn, reject
 host-suffix, xf-cloud.cn, reject
 host-suffix, xf-cloud.com, reject
@@ -409,3 +408,5 @@ ip-cidr, 103.40.12.246/32, reject
 ip-cidr, 115.236.76.246/32, reject
 ip-cidr, 180.96.21.0/24, reject
 ip-cidr, 183.213.92.2/32, reject
+ip-cidr, 183.61.49.155/32, reject
+ip-cidr, 59.36.121.252/32, reject

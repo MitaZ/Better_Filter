@@ -254,6 +254,7 @@ host-suffix, nebula-collector.huawei.com, reject
 host-suffix, neixin.cn, reject
 host-suffix, netease.im, reject
 host-suffix, netease.im, reject
+host, news-events.apple.com, reject
 host-suffix, nfa.jd.com, reject
 host-suffix, nishub1.10010.com, reject
 host-suffix, nisportal.10010.com, reject

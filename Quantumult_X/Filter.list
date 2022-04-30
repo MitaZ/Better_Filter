@@ -207,6 +207,7 @@ host-suffix, js96110.com.cn, reject
 host-suffix, jzapi.baidu.com, reject
 host-suffix, kepler.jd.com, reject
 host-suffix, ksapisrv.com, reject
+host-suffix, kuaichuanad.com, reject
 host-suffix, kuaishou.com, reject
 host-suffix, lietou-static.com, reject
 host-suffix, like.baidu.com, reject
@@ -226,6 +227,7 @@ host-suffix, logapi.xsyxsc.com, reject
 host-suffix, loggw.alipay.com, reject
 host-suffix, loggw-ex.alipay.com, reject
 host-suffix, logs-api.smzdm.com, reject
+host-suffix, lvshiads.com, reject
 host-suffix, lwlog.laiwang.com, reject
 host, m.fhyx.com, reject
 host-suffix, m106.cn, reject
@@ -310,12 +312,15 @@ host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
 host-suffix, sharetrace.com, reject
 host-suffix, shavar.prod.mozaws.net, reject
+host-suffix, shenshiads.com, reject
 host-suffix, shfzzx.cn, reject
 host-suffix, shidengdata.com, reject
 host-suffix, shopperapproved.com, reject
 host-suffix, shulidata.com, reject
 host-suffix, shuzijz.cn, reject
 host-suffix, shuzijz.com, reject
+host-suffix, sigmob.cn, reject
+host-suffix, sigmob.com, reject
 host-suffix, skynet.bilivideo.com, reject
 host-suffix, smartad.10010.com, reject
 host-suffix, snssdk.com, reject

@@ -22,7 +22,6 @@ host-keyword, statistic, reject
 host-keyword, tpns., reject
 host-keyword, tysdk., reject
 host-suffix, 114dev.com, reject
-host-suffix, 126.net, reject
 host-suffix, 127.net, reject
 host-suffix, 139130.com, reject
 host-suffix, 163industry.com, reject

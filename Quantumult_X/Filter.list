@@ -216,6 +216,7 @@ host-suffix, live-trace.bilibili.com, reject
 host-suffix, loan.95516.com, reject
 host-suffix, loc.map.baidu.com, reject
 host-suffix, locationsmart.com, reject
+host, log-access-pangolin-sdk.tuotiao.co, reject
 host-suffix, log.aliyuncs.com, reject
 host-suffix, log.avlyun.com, reject
 host-suffix, log.cmbchina.com, reject

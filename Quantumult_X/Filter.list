@@ -327,6 +327,7 @@ host-suffix, snssdk.com, reject
 host, so.cn, reject
 host-suffix, so.com, reject
 host-suffix, sobot.com, reject
+host-suffix, superqshow.qq.com, reject
 host-suffix, sqimg.qq.com, reject
 host-suffix, srggm3.com, reject
 host-suffix, starxad.cn, reject
@@ -341,6 +342,7 @@ host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject
 host-suffix, telemetrydeck.com, reject
 host-suffix, test-app.link, reject
+host-suffix, tfogc.com, reject
 host-suffix, th.pinduoduo.com, reject
 host-suffix, th-a.pinduoduo.com, reject
 host-suffix, titan.pinduoduo.com, reject

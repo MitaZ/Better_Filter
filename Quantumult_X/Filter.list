@@ -29,8 +29,11 @@ host-suffix, 163yun.com, reject
 host-suffix, 21cn.com, reject
 host-suffix, 253.com, reject
 host-suffix, 360os.com, reject
+host-suffix, 3g1.cn, reject
+host-suffix, 3g5g.cn, reject
 host-suffix, 4pn.cn, reject
 host-suffix, 51haohuo.com, reject
+host-suffix, 58duihuan.com, reject
 host-suffix, 627632.com, reject
 host-suffix, 7pd.cn, reject
 host-suffix, 8iil.live, reject
@@ -275,11 +278,13 @@ host-suffix, open.wo.cn, reject
 host-suffix, open.youzanyun.com, reject
 host-suffix, openspeech.cn, reject
 host-suffix, openwrite.cn, reject
+host-suffix, p03.cn, reject
 host-suffix, performance.dropbox.com, reject
 host-suffix, pin18pin.com, reject
 host, ping.getadblock.com, reject
 host-suffix, pixfs.net, reject
 host-suffix, pkoplink.com, reject
+host-suffix, pn0.cn, reject
 host-suffix, postreport.meituan.com, reject
 host-suffix, pphongbao.com, reject
 host-suffix, pphulian.com, reject
@@ -341,6 +346,7 @@ host, stocks-analytics-events.apple.com, reject
 host, stocks-analytics-events.news.apple-dns.net, reject
 host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
+host-suffix, svipduihuan.com, reject
 host-suffix, tamaegis.com, reject
 host-suffix, tbcache.com, reject
 host-suffix, teddymobile.cn, reject
@@ -388,6 +394,7 @@ host-suffix, vweixinthumb.tc.qq.com, reject
 host-suffix, wdm.taobao.com, reject
 host, weather-analytics-events.apple.com, reject
 host-suffix, webwebfenxi.189.cn, reject
+host-suffix, weixinduihuan.com, reject
 host-suffix, wejianzhan.com, reject
 host-suffix, wjz-cdn.baidu.com, reject
 host-suffix, wosms.cn, reject

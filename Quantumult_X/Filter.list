@@ -238,6 +238,7 @@ host-suffix, mall.bilibili.com, reject
 host-suffix, match.qq.com, reject
 host-suffix, mayybstatnew.3g.qq.com, reject
 host-suffix, mb.qq.com, reject
+host-suffix, mbd.baidu.com, reject
 host-suffix, mc.yandex.ru, reject
 host-suffix, mdh-pa.googleapis.com, reject
 host-suffix, media-lab.ai, reject

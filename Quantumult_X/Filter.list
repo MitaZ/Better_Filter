@@ -181,6 +181,8 @@ host-suffix, httpdns.baidubce.com, reject
 host-suffix, httpfereport.jd.com, reject
 host-suffix, hukecs.com, reject
 host-suffix, hushaclub.com, reject
+host-suffix, iadcontent.apple.com, reject
+host-suffix, iadsdk.apple.com, reject
 host, icity.2q10.com, reject
 host, icity.icitycdn.com, reject
 host-suffix, id.getkwai.com, reject

@@ -350,7 +350,6 @@ host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
 host-suffix, svipduihuan.com, reject
 host-suffix, tamaegis.com, reject
-host-suffix, tbcache.com, reject
 host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject
 host-suffix, telemetrydeck.com, reject

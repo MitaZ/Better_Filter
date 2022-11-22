@@ -41,6 +41,7 @@ host-suffix, ab.qq.com, reject
 host-suffix, accuratead.cn, reject
 host-suffix, acs.m.taobao.com, reject
 host-suffix, ad.10010.com, reject
+host, ad.maoyan.com, reject
 host-suffix, adash.ut.taobao.com, reject
 host-suffix, adj.st, reject
 host-suffix, adjust.net.in, reject
@@ -56,6 +57,8 @@ host-suffix, ammaandha.biz, reject
 host-suffix, amos.alicdn.com, reject
 host-suffix, an.yandex.ru, reject
 host-suffix, analytics.map.qq.com, reject
+host, api-unionid.meituan.com, reject
+host, api.feelgood.cn, reject
 host-suffix, api.gugudata.com, reject
 host-suffix, api.meishesdk.com, reject
 host-suffix, api.vc.bilibili.com, reject
@@ -73,6 +76,7 @@ host-suffix, appspot.com, reject
 host-suffix, arms-retcode.aliyuncs.com, reject
 host-suffix, aso100.com, reject
 host-suffix, atreemo.com, reject
+host-suffix, backtrace.io, reject
 host-suffix, baidubce.com, reject
 host-suffix, bajiaohuixiang.com, reject
 host-suffix, beacon-api.aliyuncs.com, reject
@@ -216,6 +220,7 @@ host-suffix, kepler.jd.com, reject
 host-suffix, ksapisrv.com, reject
 host-suffix, kuaichuanad.com, reject
 host-suffix, kuaishou.com, reject
+host-suffix, langhort.com, reject
 host-suffix, lietou-static.com, reject
 host-suffix, like.baidu.com, reject
 host-suffix, lingduyunfenfa.cn, reject
@@ -260,6 +265,7 @@ host-suffix, mokomoko666.com, reject
 host-suffix, mpush-api.aliyun.com, reject
 host-suffix, mqtt.aliyuncs.com, reject
 host-suffix, msa-alliance.cn, reject
+host, nbnest-admonitor.cainiao.com, reject
 host-suffix, nbpush.cainiao.com, reject
 host-suffix, nebula-collector.huawei.com, reject
 host-suffix, neixin.cn, reject
@@ -349,6 +355,7 @@ host, stocks-analytics-events.news.apple-dns.net, reject
 host-suffix, sugar.zhihu.com, reject
 host, supportmetrics.apple.com, reject
 host-suffix, svipduihuan.com, reject
+host-suffix, szbdyd.com, reject
 host-suffix, tamaegis.com, reject
 host-suffix, teddymobile.cn, reject
 host-suffix, telemetry.dropbox.com, reject
@@ -365,6 +372,7 @@ host-suffix, tmfmazu.m.qq.com, reject
 host-suffix, tongdun.cn, reject
 host-suffix, tongdun.com.cn, reject
 host-suffix, tongdun.net, reject
+host, tongzhi.95516.com, reject
 host-suffix, tpns.hk.tencent.com, reject
 host-suffix, tpns.sgp.tencent.com, reject
 host-suffix, tpns.sh.tencent.com, reject

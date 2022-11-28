@@ -76,6 +76,7 @@ host-suffix, appspot.com, reject
 host-suffix, arms-retcode.aliyuncs.com, reject
 host-suffix, aso100.com, reject
 host-suffix, atreemo.com, reject
+host, audid-api.taobao.com, reject
 host-suffix, backtrace.io, reject
 host-suffix, baidubce.com, reject
 host-suffix, bajiaohuixiang.com, reject
@@ -159,6 +160,7 @@ host-suffix, fritjtgn.com, reject
 host-suffix, fundebug.net, reject
 host-suffix, fxgate.baidu.com, reject
 host, gate.hockeyapp.net, reject
+host-suffix, getui.net, reject
 host-suffix, gifshow.com, reject
 host-suffix, giocdn.com, reject
 host-suffix, glpals.com, reject
@@ -284,6 +286,7 @@ host-suffix, onepass.geetest.com, reject
 host-suffix, onezapp.com, reject
 host-suffix, open.wo.cn, reject
 host-suffix, open.youzanyun.com, reject
+host-suffix, openinstall.io, reject
 host-suffix, openspeech.cn, reject
 host-suffix, openwrite.cn, reject
 host-suffix, p03.cn, reject
@@ -328,6 +331,7 @@ host-suffix, safedk.com, reject
 host-suffix, sascdn.com, reject
 host-suffix, scoreresearch.com, reject
 host-suffix, security.bilibili.com, reject
+host-suffix, shareinstall.com.cn, reject
 host-suffix, sharetrace.com, reject
 host-suffix, shavar.prod.mozaws.net, reject
 host-suffix, shenshiads.com, reject
@@ -388,6 +392,7 @@ host-suffix, txappnet.com, reject
 host-suffix, uc.cn, reject
 host-suffix, udc.yahoo.com, reject
 host-suffix, ulink.cc.163.com, reject
+host, umdc.alibabachengdun.com, reject
 host-suffix, umid.xuexi.cn, reject
 host-suffix, url.cn, reject
 host-suffix, urmgba.com, reject

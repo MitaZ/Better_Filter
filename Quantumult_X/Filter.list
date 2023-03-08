@@ -90,6 +90,7 @@ host, books-analytics-events.apple.com, reject
 host, books-analytics-events.news.apple-dns.net, reject
 host-suffix, boxer.baidu.com, reject
 host-suffix, bs.yandex.ru, reject
+host-suffix, bugsnag.com, reject
 host-suffix, bugtags.cn, reject
 host-suffix, business.smartcamera.api.io.mi.com, reject
 host, busuanzi.ibruce.info, reject

@@ -22,7 +22,6 @@ host-keyword, statistic, reject
 host-keyword, tpns., reject
 host-keyword, tysdk., reject
 host-suffix, 114dev.com, reject
-host-suffix, 127.net, reject
 host-suffix, 139130.com, reject
 host-suffix, 163industry.com, reject
 host-suffix, 163yun.com, reject
@@ -41,7 +40,7 @@ host-suffix, ab.qq.com, reject
 host-suffix, accuratead.cn, reject
 host-suffix, acs.m.taobao.com, reject
 host-suffix, ad.10010.com, reject
-host, ad.maoyan.com, reject
+host-suffix, ad.maoyan.com, reject
 host-suffix, adash.ut.taobao.com, reject
 host-suffix, adj.st, reject
 host-suffix, adjust.net.in, reject

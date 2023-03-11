@@ -40,6 +40,7 @@ host-suffix, ab.qq.com, reject
 host-suffix, accuratead.cn, reject
 host-suffix, acs.m.taobao.com, reject
 host-suffix, ad.10010.com, reject
+host-suffix, ad.cyapi.cn, reject
 host-suffix, ad.maoyan.com, reject
 host-suffix, adash.ut.taobao.com, reject
 host-suffix, adj.st, reject

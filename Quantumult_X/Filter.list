@@ -398,6 +398,7 @@ host-suffix, umid.xuexi.cn, reject
 host-suffix, url.cn, reject
 host-suffix, urmgba.com, reject
 host-suffix, userlink.alicdn.com, reject
+host-suffix, uxcam.com, reject
 host-suffix, vgunxpkt.com, reject
 host-suffix, vmirng.com, reject
 host-suffix, vmithjd3.com, reject

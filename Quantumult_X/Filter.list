@@ -438,6 +438,7 @@ host-suffix, yqphh.com, reject
 host-suffix, yunxindns.com, reject
 host-suffix, yxlady.com, reject
 host-suffix, yyaso.com, reject
+host-suffix, zip, reject
 host-suffix, zuitte.com, reject
 host-suffix, zzx9.cn, reject
 ip-cidr, 103.40.12.246/32, reject

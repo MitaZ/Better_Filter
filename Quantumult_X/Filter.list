@@ -9,11 +9,9 @@ host-keyword, adash, reject
 host-keyword, analy, reject
 host-keyword, app.adjust, reject
 host-keyword, badjs, reject
-host-keyword, cognito-,reject
 host-keyword, dns.weixin.qq.com, reject
 host-keyword, httpdns, reject
 host-keyword, loggw, reject
-host-keyword, mcdn., reject
 host-keyword, mpaas, reject
 host-keyword, pmmtk, reject
 host-keyword, sensors, reject
@@ -238,6 +236,7 @@ host-suffix, log.avlyun.com, reject
 host-suffix, log.cmbchina.com, reject
 host-suffix, log.people.cn, reject
 host-suffix, log.shanbay.com, reject
+host, log.zijieapi.com, reject
 host-suffix, logapi.people.cn, reject
 host-suffix, logapi.xsyxsc.com, reject
 host-suffix, loggw.alipay.com, reject
@@ -443,7 +442,10 @@ host-suffix, zuitte.com, reject
 host-suffix, zzx9.cn, reject
 ip-cidr, 103.40.12.246/32, reject
 ip-cidr, 115.236.76.246/32, reject
+ip-cidr, 157.148.47.204/32, reject
 ip-cidr, 180.96.21.0/24, reject
 ip-cidr, 183.213.92.2/32, reject
 ip-cidr, 183.61.49.155/32, reject
+ip-cidr, 203.107.1.1/24, reject
+ip-cidr, 43.231.145.10/32, reject
 ip-cidr, 59.36.121.252/32, reject

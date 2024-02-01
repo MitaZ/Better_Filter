@@ -79,8 +79,6 @@ host-suffix, backtrace.io, reject
 host-suffix, baidubce.com, reject
 host-suffix, bajiaohuixiang.com, reject
 host-suffix, beacon-api.aliyuncs.com, reject
-host-suffix, biliapi.com, reject
-host-suffix, biliapi.net, reject
 host-suffix, bi-log.aihuishou.com, reject
 host-suffix, bizport.cn, reject
 host-suffix, bolt.dropbox.com, reject

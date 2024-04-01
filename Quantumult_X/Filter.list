@@ -133,7 +133,6 @@ host-suffix, dfp.suning.com, reject
 host-suffix, dg.k.jd.com, reject
 host-suffix, dl-debug.dropbox.com, reject
 host-suffix, dns.msftncsi.com, reject
-host-suffix, dreport.meituan.net, reject
 host-suffix, dspunion.com, reject
 host-suffix, dualstack-logs.amap.com, reject
 host-suffix, e.189.cn, reject

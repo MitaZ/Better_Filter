@@ -1,4 +1,5 @@
 host, push.air-matters.com, direct
+host, identity.ess.apple.com, proxy
 host-suffix, jamfcloud.com, proxy
 host-suffix, quantumult.app, proxy
 host-suffix, safebrowsing.apple, proxy

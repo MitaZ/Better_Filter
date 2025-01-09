@@ -1,1 +1,124 @@
+#!name=307 Rewrite
+#!desc=Upgrading connections to TLS
+#!author=MitaZ
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSL.png
 
+[Rewrite]
+//哔哩哔哩
+^https?:\/\/b23\.tv\/(\w{7}) 307 https://b23.tf/$1
+https?:\/\/bili2233\.cn\/(\w{7}) 307 https://b23.tf/$1
+^http:\/\/([^\/]+\.)?(bilibili|bilivideo|hdslb)\.com\/ 307 https://$1$2.com/
+//微博
+^http:\/\/([^\/]+\.)?(t|miaopai|sinaimg|weibo|weibocdn)\.c(n|om)\/ 307 https://$1$2.c$3/
+//3001.Net
+^http:\/\/([^\/]+\.)?3001\.net\/ 307 https://$13001.net/
+//极验脚本 > freebuf.com/articles/others-articles/232568.html
+^http:\/\/([^\/]+\.)?geetest\.com\/ 307 https://$1geetest.com/
+//Acfun
+^http:\/\/([^\/]+\.)?(acfun|aixifan)\.c(n|om)\/ 307 https://$1$2.c$3/
+//丁香园
+^http:\/\/([^\/]+\.)?dxy(cdn)?\.(\w{1,3})\/ 307 https://$1dxy$2.$3/
+//又拍图片管家
+^http:\/\/([^\/]+\.)?yupoo\.com\/ 307 https://$1yupoo.com/
+//iDaily应用
+^http:\/\/([^\/]+\.)?(2q10|appcloudcdn|idailycdn)\.com\/ 307 https://$1$2.com/
+//什么值得买
+^http:\/\/([^\/]+\.)?(zdmimg|smzdm)\.com\/ 307 https://$1$2.com/
+//豆瓣图片
+^http:\/\/([^\/]+\.)?doubanio\.com\/ 307 https://$1doubanio.com/
+//高德地图
+^http:\/\/([^\/]+\.)?autonavi\.com\/ 307 https://$1autonavi.com/
+//IT之家
+^http:\/\/([^\/]+\.)?ithome\.com\/ 307 https://$1ithome.com/
+//片多多
+^http:\/\/lts(\w+)\.qq\.com\/ 307 https://lts$1.qq.com/
+//下厨房
+^http:\/\/([^\/]+\.)?chuimg\.com\/ 307 https://$1chuimg.com/
+//JUMP
+^http:\/\/switch-cdn\.vgjump\.com\/ 307 https://switch-cdn.vgjump.com/
+//快手原片
+^http:\/\/([^\/]+\.)?yximgs\.com\/ 307 https://$1yximgs.com/
+//彩云天气
+^http:\/\/([^\/]+\.)?caiyun(app|cdn)\.com\/ 307 https://$1caiyun$2.com/
+//网易NSTool
+^http:\/\/www\.nstool\.netease\.com\/ 307 https://www.nstool.netease.com/
+//兴盛优选
+^http:\/\/([^\/]+\.)?xsyxsc\.com\/ 307 https://$1xsyxsc.com/
+//支付宝
+^http:\/\/([^\/]+\.)?alipayobjects\.com\/ 307 https://$1alipayobjects.com/
+//美团
+^http:\/\/([^\/]+\.)?meituan\.(net|com)\/ 307 https://$1meituan.$2/
+//微信
+^http:\/\/([^\/]+\.)?q(logo|pic)\.cn\/(?!mmsns) 307 https://$1q$2.cn/
+//拼多多
+^https?:\/\/api\.pinduoduo\.com\/api\/social\/device\/info reject-200
+^http:\/\/(\S+)pddpic\.com\/tower-video\/(\S+)\?\w=\S+ 307 https://$1pddpic.com/tower-video/$2
+^http:\/\/([^\/]+\.)?(pddpic|pddugc|pinduoduo|yangkeduo)\.com\/ 307 https://$1$2.com/
+^http:\/\/198\.(?:18|19)(?:\.\d{1,3}){2}\/(\S+)?(pddpic|pinduoduo|yangkeduo)\.com\/ 307 https://$1$2.com/
+//屏蔽HTTP DNS
+d\d\?appid=\d+&dn=\w reject-dict
+^https?:\/\/(?:\d{1,3}\.){3}\d{1,3}(?::\d{1,5})?\/(?:\w+\/)*(?:(?:d\?\S*dn=\S+)|(?:sign_d\?host=\S+)|(?:resolve\?\S+)|(?:ss\?platform=\S+)) reject-dict
+//京东
+^https?:\/\/api\.(?:m\.)?jd\.com\/api\/v2\/report reject-200
+^http:\/\/([^\/]+\.)?jd\.com\/ 307 https://$1jd.com/
+//百度贴吧
+^https?:\/\/c\.tieba\.baidu\.com\/tiebaads reject-200
+^http:\/\/tiebapic\.baidu\.com\/ 307 https://tiebapic.baidu.com/
+//微信短视频
+^http:\/\/(?:\d{1,3}\.){3}\d{1,3}\/om\.tc\.qq.\com\/ 307 https://om.tc.qq.com/
+//微赞视频
+^http:\/\/([^\/]+\.)?vzan\.cc\/ 307 https://$1vzan.cc/
+//防骚扰大师
+^http:\/\/scan\.call\.f\.360\.cn\/ 307 https://scan.call.f.360.cn/
+//斗鱼直播
+^http:\/\/([^\/]+\.)?douyucdn2\.cn\/ 307 https://$1douyucdn2.cn/
+//myqcloud
+^http:\/\/([^\/]+\.)?myqcloud\.com\/ 307 https://$1myqcloud.com/
+//电信营业厅
+^http:\/\/([^\/]+\.)?189\.cn(?::\d+)?\/ 307 https://$1189.cn/
+//有道翻译
+^http:\/\/([^\/]+\.)?youdao\.com\/ 307 https://$1youdao.com/
+//一起测
+^http:\/\/([^\/]+\.)?17ce\.com\/ 307 https://$117ce.com/
+//反诈劫持页面
+^https?:\/\/group\.sx\.10086\.cn\/sxyd\/warning\.html reject-200
+^https?:\/\/m\.sd\.10086\.cn\/sd_fe_service\/html-yd\/index\.html reject-200
+^https?:\/\/sn\.ac\.10086\.cn\/mall\/vpclub\/webcmcc\/#\/other\/preventFraud reject-200
+^https?:\/\/111\.44\.246\.131 reject-200
+^https?:\/\/111\.56\.127\.216 reject-200
+^https?:\/\/112\.15\.232\.43 reject-200
+^https?:\/\/124\.236\.16\.201 reject-200
+^https?:\/\/182\.43\.124\.6 reject-200
+^https?:\/\/183\.213\.92\.2 reject-200
+^https?:\/\/211\.137\.133\.69 reject-200
+^https?:\/\/221\.130\.39\.3 reject-200
+^https?:\/\/221\.228\.32\.13 reject-200
+^https?:\/\/39\.102\.194\.95 reject-200
+//极客公园
+^http:\/\/([^\/]+\.)?geekpark\.net\/ 307 https://$1geekpark.net/
+//酷安
+^http:\/\/([^\/]+\.)?coolapk\.com\/ 307 https://$1coolapk.com/
+//托米科技
+^http:\/\/([^\/]+\.)?51tomi\.com\/ 307 https://$151tomi.com/
+//触乐
+^http:\/\/(www|img)\.chuapp\.com\/ 307 https://$1.chuapp.com/
+//QQ空间分享js
+^https?:\/\/qzonestyle\.gtimg\.cn\/\S+\/share\.js reject
+//360Doc
+^http:\/\/([^\/]+\.)?360doc\.c(n|om)\/ 307 https://$1360doc.c$2/
+//游研社
+^http:\/\/alioss\.yystv\.cn\/ 307 https://alioss.yystv.cn/
+//游民星空
+^http:\/\/([^\/]+\.)?gamersky\.com\/ 307 https://$1gamersky.com/
+//阿里云OSS
+^http:\/\/([^\/]+\.)?aliyuncs.com\/ 307 https://$1aliyuncs.com/
+//cmail
+^http:\/\/([^\/]+\.)?cmail(\d{1,2})\.com\/ 307 https://$1cmail$2.com/
+//爱词霸
+^http:\/\/([^\/]+\.)?iciba\.com\/ 307 https://$1iciba.com/
+//字节跳动
+^http:\/\/([^\/]+\.)?byteimg\.com\/ 307 https://$1byteimg.com/
+//优酷
+^http:\/\/([^\/]+\.)?ykimg\.com\/ 307 https://$1ykimg.com/
+//财富Plus
+^http:\/\/([^\/]+\.)?caifuzhongwen\.com\/ 307 https://$1caifuzhongwen.com/
